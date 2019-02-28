@@ -7,4 +7,4 @@
 
 
 
-##### Weapons images were edited by me
+##### Weapon images were edited by me
