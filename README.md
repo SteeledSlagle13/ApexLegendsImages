@@ -6,5 +6,8 @@
 
 
 
+##### Legend Ability icons were grabbed from the Official Apex Legends Website
+###### See link for that site at the top
+
 
 ##### Weapon images were edited by me
